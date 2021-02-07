@@ -1,0 +1,13 @@
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\obj\Debug\netcoreapp3.1\csharp-exercises-part-1.csprojAssemblyReference.cache
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\obj\Debug\netcoreapp3.1\csharp-exercises-part-1.AssemblyInfoInputs.cache
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\obj\Debug\netcoreapp3.1\csharp-exercises-part-1.AssemblyInfo.cs
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\obj\Debug\netcoreapp3.1\csharp-exercises-part-1.csproj.CoreCompileInputs.cache
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\bin\Debug\netcoreapp3.1\csharp-exercises-part-1.exe
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\bin\Debug\netcoreapp3.1\csharp-exercises-part-1.deps.json
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\bin\Debug\netcoreapp3.1\csharp-exercises-part-1.runtimeconfig.json
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\bin\Debug\netcoreapp3.1\csharp-exercises-part-1.runtimeconfig.dev.json
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\bin\Debug\netcoreapp3.1\csharp-exercises-part-1.dll
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\bin\Debug\netcoreapp3.1\csharp-exercises-part-1.pdb
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\obj\Debug\netcoreapp3.1\csharp-exercises-part-1.dll
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\obj\Debug\netcoreapp3.1\csharp-exercises-part-1.pdb
+C:\Users\Freddy\source\repos\csharp-exercises-part-1\obj\Debug\netcoreapp3.1\csharp-exercises-part-1.genruntimeconfig.cache
